@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Afrid 👋
 
-<!--
-**afrid33221/afrid33221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Information Systems & Security Student | Aspiring Cybersecurity & Software Developer
 
-Here are some ideas to get you started:
+🎓 Studying at Tongmyong University, South Korea 🇰🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- Interested in Cybersecurity and Software Development
+- Learning Python, C, and Web Development
+- Exploring Computer Networks and Information Security
+- Building practical projects and improving my technical skills
+
+### 🛠️ Technical Skills
+- **Programming:** Python, C, C++
+- **Web:** HTML, CSS
+- **Core Concepts:** Data Structures, Networking
+- **Tools:** Git, GitHub, VS Code
+
+### 🚀 Featured Projects
+- [Cyber Vault](https://afrid33221.github.io/cyber-vault/) — Cybersecurity challenges and learning projects
+- [Personal Website](https://afrid33221.github.io/) — My web development portfolio
+
+### 🎯 Currently Learning
+- Python Programming
+- Cybersecurity Fundamentals
+- Network Security
+- Data Structures and Algorithms
+
+### 📫 Connect With Me
+- GitHub: [@afrid33221](https://github.com/afrid33221)
